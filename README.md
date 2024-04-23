@@ -12,7 +12,7 @@ Une simple application de calculatrice réalisée avec React Native.
 1. Clonez ce dépôt sur votre machine locale :
 
 ```
-git clone https://github.com/votre-utilisateur/calculatrice-react-native.git
+git clone https://github.com/PourthieAlexis/calculator.git
 ```
 
 2. Accédez au répertoire du projet :
